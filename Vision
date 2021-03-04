@@ -1,25 +1,26 @@
 #EXTM3U
 
-#EXTINF:1,WandaVisión 1x1
-https://s765.clipwatching.com/hls/zx5x33qugz3txcne4yjdjdvs3thxnu7dwlgj4uicp,4ah5woys4slz4hl6aiq,h7h7woys4sglyv5kreq,.urlset/master.m3u8
+#EXTINF:1,WandaVisión 1. Filmada con público en vivo
+https://vimeo.com/519355615/4ee835c8f0
 
-#EXTINF:1,WandaVisión 1x2
-https://s800.clipwatching.com/hls/zx5x7iq5gz3txcne4yjdjrhtr6a22bpmmze2l6lxu7ubzdoznomi5kwq5svq/index-v1-a1.m3u8
+#EXTINF:1,WandaVisión 2. No cambie de canal
+https://vimeo.com/519363630/33c201bd79
 
-#EXTINF:1,WandaVisión 1x3
-https://s15.aparat.cam/hls/aoqo7a3b2or5fwfuhy5rcocgdourus2qmiqctbefw,moa6g3tuaskpzhdnbba,gya6g3tuasg7enadoaq,4ta4g3tuasfessqnnqa,.urlset/master.m3u8
+#EXTINF:1,WandaVisión 3. Ahora en colores 
+https://vimeo.com/519367452/fcf7077794
 
-#EXTINF:1,WandaVisión 1x4
-https://video-hw.xvideos-cdn.com/videos/mp4/5/d/1/xvideos.com_5d186980fd5f1514f552da57f5d8dd32.mp4?e=1614564422&h=dc8d989375617478f5bdded4b681abe4&download=1
+#EXTINF:1,WandaVisión 4. Interrumpimos este programa
+https://vimeo.com/519373793/3413644897
 
-#EXTINF:1,WandaVisión 1x5
-https://dtwwcthbeh.mscontent.net/d/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTQ2MTc5MTQsImRhdGEiOlsiMTkwLjExMC4yMDYuMTEzIiwibG5zY3UwOTAzczk4IiwibiIsMiwiYmQ2NmYzNmZhMmI2YjI2ZDBmMWUxYjhjZDVjNGExODYiXX0.T8ATFsuGJm8x3Q-5rslzwX0kAl7o50iJE7BSO-O8vWw.mp4
+#EXTINF:1,WandaVisión 5. En un episodio muy especial...
+https://vimeo.com/519379254/f20a8321fb
 
-#EXTINF:1,WandaVisión 1x6
-https://video-hw.xvideos-cdn.com/videos/mp4/c/d/c/xvideos.com_cdce60e55054ae697feb8a2bc926b49a.mp4?e=1614564631&h=892b02260107632dcb034bbe757c722c&download=1
+#EXTINF:1,WandaVisión 6. ¡Espectacular estreno de Halloween!
+https://vimeo.com/519391722/160fdb4892
 
-#EXTINF:1,WandaVisión 1x7
-https://video-hw.xvideos-cdn.com/videos/mp4/d/f/5/xvideos.com_df59053cb0f289576a5f88cf31ba63d7.mp4?e=1614564757&h=bd5172602227af2258772495ab9109b2&download=1
+#EXTINF:1,WandaVisión 7. Abajo la cuarta pared
+https://vimeo.com/519408366/6d880536ec
 
-
+#EXTINF:1,WandaVisión 8. En el episodio anterior...
+https://vimeo.com/519434605/9681d1b40b
 
